@@ -98,8 +98,6 @@ public class MainActivity extends ActionBarActivity {
         {
             buttonList[i].setBackground(getResources().getDrawable(R.drawable.deselected_color));
         }
-         //test for commiting
-
 
         redrawButtons();
     }
